@@ -1,0 +1,26 @@
+{
+  "period_from": 1546300800,
+  "period_to": 1577750400,
+  "currency": "EUR",
+  "revenue": 12147000000,
+  "production_costs": -10386000000,
+  "gross_profit": 1761000000,
+  "research_and_development_costs": -268000000,
+  "distribution_costs": -222000000,
+  "administration_costs": -267000000,
+  "operation_profit_before_special_items": 1004000000,
+  "special_items": 0,
+  "operation_profit": 1004000000,
+  "investments_in_joint_ventures_and_associates": 3000000,
+  "financial_income": 40000000,
+  "financial_costs": -138000000,
+  "profit_before_tax": 909000000,
+  "income_tax": -209000000,
+  "profit_for_the_year": 700000000,
+  "profit_is_attributable_to": {
+    "company_owners": 704000000,
+    "non-controlling_interests": -4000000
+  },
+  "earnings_per_share": 3.57,
+  "earnings_per_share_diluted": 3.55
+}

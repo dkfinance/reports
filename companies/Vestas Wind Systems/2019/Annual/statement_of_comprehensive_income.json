@@ -1,0 +1,18 @@
+{
+  "period_from": 1546300800,
+  "period_to": 1577750400,
+  "currency": "EUR",
+  "profit_for_the_year": 700000000,
+  "other_comprehensive_income": {
+    "exchange_rate_adjustments_relating_to_foreign_entities": 27000000,
+    "exchange_rate_adjustments_relating_to_foreign_entities_transferred_to_the_income_statement": -8000000,
+    "fair_value_adjustments_of_derivative_financial_instruments": -23000000,
+    "derivative_financial_instruments_transferred_to_the_income_statement": -50000000,
+    "exchange_rate_adjustments_relating_to_join_ventures_and_associates": 1000000,
+    "share_of_fair_value_adjustments_of_derivatives_financial_instruments_of_join_ventures_and_associates": -58000000,
+    "share_of_fair_value_adjustments_of_derivatives_financial_instruments_transferred_to_the_income_statement_of_join_ventures_and_associates": 1000000,
+    "tax_on_fair_value_adjustments_that_may_be_subsequently_reclassified_to_the_income_statement": 18000000
+  },
+  "other_comprehensive_income_after_tax": -92000000,
+  "total_comprehensive_income": 608000000
+}
