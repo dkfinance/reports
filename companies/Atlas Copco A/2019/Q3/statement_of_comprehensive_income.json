@@ -1,0 +1,18 @@
+{
+  "period_from": null,
+  "period_to": null,
+  "currency": "EUR",
+  "profit_for_the_year": null,
+  "other_comprehensive_income": {
+    "exchange_rate_adjustments_relating_to_foreign_entities": null,
+    "exchange_rate_adjustments_relating_to_foreign_entities_transferred_to_the_income_statement": null,
+    "fair_value_adjustments_of_derivative_financial_instruments": null,
+    "derivative_financial_instruments_transferred_to_the_income_statement": null,
+    "exchange_rate_adjustments_relating_to_join_ventures_and_associates": null,
+    "share_of_fair_value_adjustments_of_derivatives_financial_instruments_of_join_ventures_and_associates": null,
+    "share_of_fair_value_adjustments_of_derivatives_financial_instruments_transferred_to_the_income_statement_of_join_ventures_and_associates": null,
+    "tax_on_fair_value_adjustments_that_may_be_subsequently_reclassified_to_the_income_statement": null
+  },
+  "other_comprehensive_income_after_tax": null,
+  "total_comprehensive_income": null
+}

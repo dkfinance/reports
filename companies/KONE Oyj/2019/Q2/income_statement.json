@@ -1,0 +1,26 @@
+{
+  "period_from": null,
+  "period_to": null,
+  "currency": "EUR",
+  "revenue": null,
+  "production_costs": null,
+  "gross_profit": null,
+  "research_and_development_costs": null,
+  "distribution_costs": null,
+  "administration_costs": null,
+  "operation_profit_before_special_items": null,
+  "special_items": 0,
+  "operation_profit": null,
+  "investments_in_joint_ventures_and_associates": null,
+  "financial_income": null,
+  "financial_costs": null,
+  "profit_before_tax": null,
+  "income_tax": null,
+  "profit_for_the_year": null,
+  "profit_is_attributable_to": {
+    "company_owners": null,
+    "non-controlling_interests": null
+  },
+  "earnings_per_share": null,
+  "earnings_per_share_diluted": null
+}
